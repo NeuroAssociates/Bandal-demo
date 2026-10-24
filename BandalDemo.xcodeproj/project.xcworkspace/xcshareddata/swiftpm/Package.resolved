@@ -1,0 +1,33 @@
+{
+  "originHash" : "b19b7e8532936217ce0da64f00c567dcab36e9f4befa62eef04637b821024e95",
+  "pins" : [
+    {
+      "identity" : "bandal",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/NeuroAssociates/Bandal.git",
+      "state" : {
+        "revision" : "67faebbfa0dfd974c291667ee0f3d4110ad86c7b",
+        "version" : "0.1.0"
+      }
+    },
+    {
+      "identity" : "mlx-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ml-explore/mlx-swift",
+      "state" : {
+        "revision" : "19601207e9a0de51e03ee6ec0c3c5f3784275075",
+        "version" : "0.32.3"
+      }
+    },
+    {
+      "identity" : "swift-numerics",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-numerics",
+      "state" : {
+        "revision" : "0c0290ff6b24942dadb83a929ffaaa1481df04a2",
+        "version" : "1.1.1"
+      }
+    }
+  ],
+  "version" : 3
+}

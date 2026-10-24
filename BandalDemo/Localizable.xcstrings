@@ -1,0 +1,1851 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%@ %@ ms" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ %2$@ ms"
+          }
+        }
+      }
+    },
+    "%lld rows" : {
+
+    },
+    "%lld rows × %lld columns" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$lld rows × %2$lld columns"
+          }
+        }
+      }
+    },
+    "30-row rolling mean (last 3 rows):" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "30행 롤링 평균 (마지막 3행):"
+          }
+        }
+      }
+    },
+    "A small Series with a missing value:" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "결측값이 있는 작은 Series:"
+          }
+        }
+      }
+    },
+    "Aggregate by Region and Team" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "지역 및 팀별 집계"
+          }
+        }
+      }
+    },
+    "Aggregated groups with mean sales >= 100:" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "평균 매출이 100 이상인 그룹:"
+          }
+        }
+      }
+    },
+    "amount explicitly parsed as number." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "amount 열은 숫자 타입으로 명시적으로 변환했습니다."
+          }
+        }
+      }
+    },
+    "Analyze Factory Shipments" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "공장 출하 데이터 분석"
+          }
+        }
+      }
+    },
+    "Apply cumulative sum, product, minimum, and maximum; shift, difference, and percent change; clip and round values; and forward or backward fill gaps." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "누적 합·곱·최솟값·최댓값, 이동·차분·변화율, 값 제한과 반올림, 앞/뒤 방향 결측 채우기를 적용합니다."
+          }
+        }
+      }
+    },
+    "Bandal Demo" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bandal 데모"
+          }
+        }
+      }
+    },
+    "BandalRuntime & MLXVector bridge:" : {
+
+    },
+    "BandalRuntime:" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "BandalRuntime:"
+          }
+        }
+      }
+    },
+    "BandalRuntime.withExecutionPolicy(_:operation:) comparison:" : {
+
+    },
+    "Boolean columns:" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "불리언 열:"
+          }
+        }
+      }
+    },
+    "Calculate revenue from a fictional US manufacturer's shipment volumes and USD unit prices, then aggregate by month and division." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "가상의 미국 제조사 출하량과 USD 단가로 매출을 계산하고 월별·사업부별로 집계합니다."
+          }
+        }
+      }
+    },
+    "Calculate sales growth and sales levels from existing columns and add them as new columns." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "기존 열을 사용해 매출 성장액과 수준을 계산하고 새 열로 추가합니다."
+          }
+        }
+      }
+    },
+    "Calculate statistics by normal and anomalous groups in the bundled MIMII acoustic sample, then find anomalous rows with high RMS." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "번들 MIMII 음향 표본의 정상·이상 그룹별 통계를 계산하고 RMS가 높은 이상 행을 찾습니다."
+          }
+        }
+      }
+    },
+    "Calculated average score; attendance >= 80, graded and ranked:" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "평균 점수 계산 및 출석률 80 이상 필터링 후 등급 분류·정렬:"
+          }
+        }
+      }
+    },
+    "Check BandalRuntime to see whether MLX is active, then time statistics, rolling, and grouped aggregation on 40,000 factory rows." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "BandalRuntime으로 MLX 사용 여부를 확인하고, 공장 데이터 40,000행에서 통계, 롤링, 그룹 집계 시간을 측정합니다."
+          }
+        }
+      }
+    },
+    "Choose a Bandal feature from the list on the left." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "왼쪽 목록에서 Bandal 기능을 선택하세요."
+          }
+        }
+      }
+    },
+    "Class A with attendance >= 80:" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "출석률이 80 이상인 A반:"
+          }
+        }
+      }
+    },
+    "Class count, average score, and maximum score:" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "반별 학생 수·평균 점수·최고 점수:"
+          }
+        }
+      }
+    },
+    "Clean and inspect text columns with string helpers, extract calendar components from Date columns, and apply vectorized arithmetic, abs, ranking, and value mapping." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "문자열 헬퍼로 텍스트 컬럼을 정제·검사하고, Date 컬럼에서 연/월/일/요일을 추출하며, 벡터 사칙연산·절댓값·순위·값 매핑을 적용합니다."
+          }
+        }
+      }
+    },
+    "clipped(_:lower:upper:) and rounded(_:decimals:):" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "clipped(_:lower:upper:)와 rounded(_:decimals:):"
+          }
+        }
+      }
+    },
+    "CMAPSS correlation() (Pearson):" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CMAPSS correlation() (피어슨):"
+          }
+        }
+      }
+    },
+    "CMAPSS covariance() (sample, n - 1):" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CMAPSS covariance() (표본, n - 1):"
+          }
+        }
+      }
+    },
+    "CMAPSS Engine Failure Risk Analysis" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CMAPSS 엔진 고장 위험 분석"
+          }
+        }
+      }
+    },
+    "CMAPSS sample:" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CMAPSS 표본:"
+          }
+        }
+      }
+    },
+    "Column details:" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "열 정보:"
+          }
+        }
+      }
+    },
+    "Column statistics summary:" : {
+
+    },
+    "Combine groupBy(_:) and aggregate(_:using:) to calculate sales totals by region and country counts by team." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "groupBy(_:)와 aggregate(_:using:)를 조합해 지역별 매출 합계와 팀별 국가 수를 계산합니다."
+          }
+        }
+      }
+    },
+    "Compare engine sensor statistics by near-failure status using the bundled CMAPSS sample, then sort rows by remaining useful life (RUL)." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "번들 CMAPSS 표본에서 고장 임박 여부별 센서 통계를 비교하고 잔여수명(RUL) 기준으로 행을 정렬합니다."
+          }
+        }
+      }
+    },
+    "Compare inner, full, and multi-key joins with custom column suffixes; aggregate with sum, mean, median, std, first, and last; and filter grouped results." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "내부·전체 조인과 사용자 지정 접미사를 포함한 다중 키 조인을 비교하고, 합계·평균·중앙값·표준편차·첫값·끝값 집계와 그룹 필터링을 살펴봅니다."
+          }
+        }
+      }
+    },
+    "Compare inner, right, and full joins; aggregate by multiple keys; and filter the aggregated results." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "내부·오른쪽·전체 조인을 비교하고, 여러 키로 집계한 뒤 결과를 필터링합니다."
+          }
+        }
+      }
+    },
+    "Composable RowPredicate (between, notMissing, !contains):" : {
+
+    },
+    "Compute pairwise Pearson correlation and sample covariance matrices for numeric columns in the CMAPSS and MIMII samples." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CMAPSS와 MIMII 샘플의 숫자 열에 대해 피어슨 상관계수와 표본 공분산 행렬을 계산합니다."
+          }
+        }
+      }
+    },
+    "Configure the delimiter, header, selected columns, and types; then write and reread a CSV to compare the results." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "구분자·헤더·선택 열·타입을 설정해 CSV를 읽고, 기록한 뒤 다시 읽어 결과를 비교합니다."
+          }
+        }
+      }
+    },
+    "Convert Boolean and Date Values" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "불리언 및 날짜 값 변환"
+          }
+        }
+      }
+    },
+    "Converted data:" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "변환된 데이터:"
+          }
+        }
+      }
+    },
+    "Converted types:" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "변환된 타입:"
+          }
+        }
+      }
+    },
+    "Correlation and Covariance Matrices" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "상관계수 및 공분산 행렬"
+          }
+        }
+      }
+    },
+    "count, numbers, unique, and uniqueCount:" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "count, numbers, unique, uniqueCount:"
+          }
+        }
+      }
+    },
+    "count, numbers, unique, uniqueCount, quantile, mode, and describe():" : {
+
+    },
+    "Countries by team:" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "팀별 국가 수:"
+          }
+        }
+      }
+    },
+    "Country info:" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "국가 정보:"
+          }
+        }
+      }
+    },
+    "Create a DataFrame from numeric arrays, then select columns and calculate summary statistics." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "숫자 배열로 데이터프레임을 만들고 열 선택 및 요약 통계를 실행합니다."
+          }
+        }
+      }
+    },
+    "Create a Numeric DataFrame" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "숫자 데이터프레임 만들기"
+          }
+        }
+      }
+    },
+    "Create Calculated and Categorized Columns" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "계산 열과 범주 열 만들기"
+          }
+        }
+      }
+    },
+    "Create derived columns using vectorized combining, scaling, ranking, and row-by-row withColumn(name:computing:) closures." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "벡터화 연산(combining, scaling, ranked)과 행 단위 withColumn(name:computing:) 클로저를 사용해 파생 컬럼을 생성합니다."
+          }
+        }
+      }
+    },
+    "CSV missing-value counts:" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CSV 결측값 수:"
+          }
+        }
+      }
+    },
+    "CSV Options and Round-Trip" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CSV 옵션 및 쓰기·다시 읽기"
+          }
+        }
+      }
+    },
+    "CSV parse options:" : {
+
+    },
+    "CSV write/read round trip:" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CSV 쓰기 및 다시 읽기 결과:"
+          }
+        }
+      }
+    },
+    "Cumulative, Shift, Clip, and Fill Operations" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "누적, 이동, 제한, 채우기 연산"
+          }
+        }
+      }
+    },
+    "cumulative(_:using:) — sum, maximum, minimum, and product:" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "cumulative(_:using:) — 합, 최댓값, 최솟값, 곱:"
+          }
+        }
+      }
+    },
+    "DataFrame Info:" : {
+
+    },
+    "DataFrame loaded from column-oriented JSON object:" : {
+
+    },
+    "DataFrame loaded from JSON records array (with dateFormat):" : {
+
+    },
+    "DataFrame reconstructed via DataFrame(mlxColumns:):" : {
+
+    },
+    "DataRow & cell subscript access (df[row:], df[col, row], DataValue properties):" : {
+
+    },
+    "Dataset info:" : {
+
+    },
+    "Dataset shapes:" : {
+
+    },
+    "Date component extraction (.year, .month, .day, .weekday):" : {
+
+    },
+    "Deduplicate, Rename, and Concatenate" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "중복 제거·이름 변경·행 연결"
+          }
+        }
+      }
+    },
+    "Deduplicate, Rename, Concatenate, and Sample" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "중복 제거, 이름 변경, 행 결합 및 샘플링"
+          }
+        }
+      }
+    },
+    "Demo execution error:" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "데모 실행 오류:"
+          }
+        }
+      }
+    },
+    "Department shipment totals:" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "사업부별 출하량 합계:"
+          }
+        }
+      }
+    },
+    "Derived columns summary:" : {
+
+    },
+    "Descriptive statistics:" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "기술 통계:"
+          }
+        }
+      }
+    },
+    "Detailed numeric & text statistics:" : {
+
+    },
+    "drop(columns:) keeps the remaining columns:" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "drop(columns:) 후 남은 열:"
+          }
+        }
+      }
+    },
+    "duplicatedRows(in: [\"team\"]) masks:" : {
+
+    },
+    "Example Code" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "예제 코드"
+          }
+        }
+      }
+    },
+    "Expanding count, sum, mean, minimum, and maximum:" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "누적 개수·합계·평균·최솟값·최댓값:"
+          }
+        }
+      }
+    },
+    "exploded(\"skills\", separator: \",\"):" : {
+
+    },
+    "Explore column-wise melting, aggregated pivots, broadcasting group results, and rolling and expanding statistics." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "열 방향 멜트, 집계 피벗, 그룹 결과 브로드캐스트, 롤링 및 누적 통계를 살펴봅니다."
+          }
+        }
+      }
+    },
+    "Explore melt, pivotTable, exploded list columns, transposed tables, broadcasting group transforms, and row-count or time-interval rolling and expanding windows." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "melt, pivotTable, 구분자 기반 exploded, 행·열 전치(transposed), 그룹 브로드캐스트 변환, 행 개수 및 시간 간격 기반 rolling·expanding 윈도우를 살펴봅니다."
+          }
+        }
+      }
+    },
+    "Extract a column as a Series, perform vectorized arithmetic (+, -, *, /), compute quantiles, modes, ranks, and valueCounts, and reduce with every AggregateFunction." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "컬럼을 Series로 추출해 벡터 사칙연산(+, -, *, /), 분위수, 최빈값, 순위, valueCounts 및 모든 AggregateFunction 축약을 수행합니다."
+          }
+        }
+      }
+    },
+    "Extract a column as a Series, then use unique, uniqueCount, valueCounts, numbers, and reduced(using:) with subscript access." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "열을 Series로 꺼내 unique, uniqueCount, valueCounts, numbers, reduced(using:)를 사용하고 subscript로 접근합니다."
+          }
+        }
+      }
+    },
+    "Factory sample (maximum 5,000 rows):" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "공장 데이터 표본 (최대 5,000행):"
+          }
+        }
+      }
+    },
+    "Filled preview (Sales_2024 filled with 0):" : {
+
+    },
+    "Filled preview:" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "결측값을 채운 미리보기:"
+          }
+        }
+      }
+    },
+    "Filter condition:" : {
+
+    },
+    "Filter Rows by Condition" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "조건으로 행 필터링"
+          }
+        }
+      }
+    },
+    "Filter rows using pandas-style query strings or composable RowPredicate expressions, and access individual rows, slices, and typed cells via DataRow and subscripts." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "pandas 스타일 query 문자열과 조합 가능한 RowPredicate 표현식으로 행을 필터링하고, DataRow 및 서브스크립트로 행, 범위, 타입별 셀에 접근합니다."
+          }
+        }
+      }
+    },
+    "First 3 rows:" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "처음 3개 행:"
+          }
+        }
+      }
+    },
+    "Five shortest remaining-life rows (RUL <= 30):" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "잔여수명이 가장 짧은 5개 행 (RUL <= 30):"
+          }
+        }
+      }
+    },
+    "forwardFilled() and backwardFilled():" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "forwardFilled()와 backwardFilled():"
+          }
+        }
+      }
+    },
+    "Full join (unmatched rows retained with missing values):" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "전체 조인 (일치하지 않는 행도 결측값과 함께 유지):"
+          }
+        }
+      }
+    },
+    "Global sales details:" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "전체 매출 정보:"
+          }
+        }
+      }
+    },
+    "Global sales preview:" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "전체 매출 미리보기:"
+          }
+        }
+      }
+    },
+    "Global sales statistics:" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "전체 매출 통계:"
+          }
+        }
+      }
+    },
+    "Group mean broadcast to source rows:" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "그룹 평균을 원본 행에 적용:"
+          }
+        }
+      }
+    },
+    "groupBy + aggregate on every row:" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "전체 행에 대한 groupBy + aggregate:"
+          }
+        }
+      }
+    },
+    "Headerless input with explicit names and NA missing token:" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "열 이름과 NA 결측 토큰을 지정한 헤더 없는 입력:"
+          }
+        }
+      }
+    },
+    "Inferred source types:" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "원본 데이터에서 추론한 타입:"
+          }
+        }
+      }
+    },
+    "infoSummary() columns:" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "infoSummary() 열 정보:"
+          }
+        }
+      }
+    },
+    "infoSummary() description:" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "infoSummary() 설명:"
+          }
+        }
+      }
+    },
+    "infoSummary(), uniqueSummary(), and missingSummary() per column:" : {
+
+    },
+    "Inner join (matching ids only):" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "내부 조인 (ID가 일치하는 행만):"
+          }
+        }
+      }
+    },
+    "Inspect and Fill Missing Values" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "결측값 확인 및 채우기"
+          }
+        }
+      }
+    },
+    "Inspect BandalRuntime, compare ExecutionPolicy (.automatic, .cpu, .gpu, .native) with withExecutionPolicy, bridge columns via MLXVector, and benchmark 40,000 factory rows." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "BandalRuntime을 확인하고 withExecutionPolicy로 실행 정책(.automatic, .cpu, .gpu, .native)을 비교하며, MLXVector 컬럼 브리징과 40,000행 벤치마크를 수행합니다."
+          }
+        }
+      }
+    },
+    "Inspect Boolean and date type inference, select columns by type, and explicitly convert string columns." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "불리언·날짜 타입 추론, 타입별 열 선택, 문자열 열의 명시적 변환을 확인합니다."
+          }
+        }
+      }
+    },
+    "Inspect duplicate masks with duplicatedRows, deduplicate by selected columns, rename columns, concatenate batches, and draw reproducible random samples." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "duplicatedRows로 중복 마스크를 확인하고, 선택 컬럼 기준 중복 제거, 컬럼 이름 변경, 행 결합 및 시드 기반 무작위 샘플링을 수행합니다."
+          }
+        }
+      }
+    },
+    "Inspect per-column missing counts and masks, then compare fillMissing/dropMissing and sample statistics with expected results." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "열별 결측 수와 마스크를 확인하고 fillMissing/dropMissing 및 표본 통계를 기대 결과와 비교합니다."
+          }
+        }
+      }
+    },
+    "Inspect per-column missing counts, missingSummary(), and missingMask() tables; then compare fillMissing, replacing, dropMissing, and sample statistics." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "열별 결측치 개수, missingSummary(), missingMask() 표를 확인하고 fillMissing, replacing, dropMissing 및 표본 통계를 비교합니다."
+          }
+        }
+      }
+    },
+    "Inspect statistics(), custom percentiles with describeStructured, summaryTable(), missingSummary(), uniqueSummary(), dtypes, quantile(_:), largest/smallest, and drop(columns:)." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "statistics(), 사용자 지정 백분위수를 포함한 describeStructured, summaryTable(), missingSummary(), uniqueSummary(), dtypes, quantile(_:), largest/smallest 및 drop(columns:)를 확인합니다."
+          }
+        }
+      }
+    },
+    "Join additional country details with leftJoin(_:on:) and inspect the resulting data frame." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "leftJoin(_:on:)으로 국가별 추가 정보를 연결하고 결과 데이터프레임을 확인합니다."
+          }
+        }
+      }
+    },
+    "Join Country Information" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "국가 정보 조인"
+          }
+        }
+      }
+    },
+    "Join Types and Multiple Aggregations" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "조인 유형과 다중 집계"
+          }
+        }
+      }
+    },
+    "Join Types, Multi-Key Joins, and Aggregations" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "조인 방식, 다중 키 조인 및 복수 집계"
+          }
+        }
+      }
+    },
+    "Joined metadata:" : {
+
+    },
+    "Joined preview:" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "조인 결과 미리보기:"
+          }
+        }
+      }
+    },
+    "Joined shape:" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "조인 결과 크기:"
+          }
+        }
+      }
+    },
+    "JSON file writeJSON / contentsOfJSON round-trip:" : {
+
+    },
+    "JSON I/O, RenderOptions, and Markdown Export" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "JSON 입출력, RenderOptions 및 Markdown 내보내기"
+          }
+        }
+      }
+    },
+    "jsonData(prettyPrinted: true) output:" : {
+
+    },
+    "Keep last row per team, then rename team to department:" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "팀별 마지막 행을 유지한 뒤 team 열을 department로 변경:"
+          }
+        }
+      }
+    },
+    "largest(3, by: \"sensor_2\"):" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "largest(3, by: \"sensor_2\"):"
+          }
+        }
+      }
+    },
+    "Last 2 rows:" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "마지막 2개 행:"
+          }
+        }
+      }
+    },
+    "Literal DataValue columns & RowPredicate (.in, &&, ||):" : {
+
+    },
+    "Load a bundled CSV and inspect its preview, missing-value counts, column types, and summary statistics." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "번들 CSV를 불러와 미리보기, 열별 결측 수와 타입, 요약 통계를 확인합니다."
+          }
+        }
+      }
+    },
+    "Load and export JSON records or column dictionaries, convert to Swift dictionaries, customize text table rendering with RenderOptions, and export GitHub-flavored Markdown tables." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "JSON 레코드 배열 및 컬럼 객체를 읽고 쓰며, Swift 딕셔너리 변환, RenderOptions 출력 설정, GitHub 스타일 Markdown 표 내보내기를 살펴봅니다."
+          }
+        }
+      }
+    },
+    "Load and Inspect CSV" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CSV 불러오기 및 구조 확인"
+          }
+        }
+      }
+    },
+    "Matching rows:" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "조건에 맞는 행:"
+          }
+        }
+      }
+    },
+    "Matching sales:" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "조건에 맞는 매출:"
+          }
+        }
+      }
+    },
+    "Mean acoustic features and sample count by label:" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "레이블별 음향 특성 평균 및 표본 수:"
+          }
+        }
+      }
+    },
+    "Measured time per operation:" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "연산별 측정 시간:"
+          }
+        }
+      }
+    },
+    "Melt, Pivot, Explode, Transpose, and Windows" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Melt, Pivot, Explode, 전치 및 윈도우 통계"
+          }
+        }
+      }
+    },
+    "Melt, Pivot, Group Transforms, and Window Statistics" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "멜트·피벗·그룹 변환·윈도 통계"
+          }
+        }
+      }
+    },
+    "Melted (long) form:" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "멜트한 롱 형식:"
+          }
+        }
+      }
+    },
+    "MIMII Acoustic Anomaly Analysis" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MIMII 음향 이상 분석"
+          }
+        }
+      }
+    },
+    "MIMII acoustic sample:" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MIMII 음향 표본:"
+          }
+        }
+      }
+    },
+    "MIMII correlation() including the anomaly label:" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이상 레이블을 포함한 MIMII correlation():"
+          }
+        }
+      }
+    },
+    "Missing values validation:" : {
+
+    },
+    "missingMask() boolean DataFrame (first 5 rows):" : {
+
+    },
+    "Monthly revenue (head 5):" : {
+
+    },
+    "Monthly revenue:" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "월별 매출:"
+          }
+        }
+      }
+    },
+    "Multi-key join(leftOn:rightOn:suffixes:) with overlapping column names:" : {
+
+    },
+    "No rows" : {
+
+    },
+    "Numeric Column Summary" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "숫자 열 요약 통계"
+          }
+        }
+      }
+    },
+    "Numeric Engine and MLX Backend" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "수치 엔진과 MLX 백엔드"
+          }
+        }
+      }
+    },
+    "Numeric Engine, ExecutionPolicy, and MLX Backend" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "수치 엔진, ExecutionPolicy 및 MLX 백엔드"
+          }
+        }
+      }
+    },
+    "Original data:" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "원본 데이터:"
+          }
+        }
+      }
+    },
+    "Original rows:" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "원본 행:"
+          }
+        }
+      }
+    },
+    "Output" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "실행 결과"
+          }
+        }
+      }
+    },
+    "Parsed values:" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "파싱 결과:"
+          }
+        }
+      }
+    },
+    "Pass a condition to filterRows(_:) to select countries with 2025 sales of at least 1,000,000." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "filterRows(_:)에 조건을 전달해 2025년 매출이 1,000,000 이상인 국가를 선택합니다."
+          }
+        }
+      }
+    },
+    "Per-column ColumnStatistics (with custom 90% percentile):" : {
+
+    },
+    "Per-column ColumnStatistics:" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "열별 ColumnStatistics:"
+          }
+        }
+      }
+    },
+    "Pivoted and aggregated:" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "피벗 및 집계 결과:"
+          }
+        }
+      }
+    },
+    "Prepared sales (first 10 rows):" : {
+
+    },
+    "Preparing output…" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "결과를 준비하는 중…"
+          }
+        }
+      }
+    },
+    "Preview:" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "미리보기:"
+          }
+        }
+      }
+    },
+    "Processing time:" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "처리 시간:"
+          }
+        }
+      }
+    },
+    "quantile(0.9) across numeric columns:" : {
+
+    },
+    "Quantity_Tons reduced with every AggregateFunction:" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "모든 AggregateFunction으로 줄인 Quantity_Tons:"
+          }
+        }
+      }
+    },
+    "Query Expressions, RowPredicates, and Row Access" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Query 표현식, RowPredicate 및 행/셀 접근"
+          }
+        }
+      }
+    },
+    "query(\"Sales_2025 >= 1000000 && Sales_2024 != nil\"):" : {
+
+    },
+    "Quickly inspect the beginning and end of a dataset with head(_:) and tail(_:)." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "head(_:)와 tail(_:)로 데이터의 처음과 마지막 부분을 빠르게 확인합니다."
+          }
+        }
+      }
+    },
+    "Read options: delimiter=semicolon, selectedColumns=name/amount," : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "읽기 옵션: 구분자=세미콜론, 선택 열=name/amount,"
+          }
+        }
+      }
+    },
+    "Read statistics() and infoSummary() as Swift values, reduce numeric columns to one row, pick top rows with largest/smallest, and remove columns with drop(columns:)." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "statistics()와 infoSummary()를 Swift 값으로 읽고, 숫자 열을 한 행으로 줄이며, largest/smallest로 상위 행을 고르고 drop(columns:)로 열을 제거합니다."
+          }
+        }
+      }
+    },
+    "Ready" : {
+
+    },
+    "Recreate a student grades workflow with column selection, calculated columns, compound filters, multi-key sorting, conditional categories, and class-level aggregation." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "열 선택, 계산 열, 복합 필터, 다중 키 정렬, 조건별 분류, 반별 집계를 포함한 학생 성적 분석 흐름을 재현합니다."
+          }
+        }
+      }
+    },
+    "reduced(using: .max) — one row for numeric columns:" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "reduced(using: .max) — 숫자 열을 한 행으로:"
+          }
+        }
+      }
+    },
+    "reduced(using: .mean), rounded to 3 decimals:" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "reduced(using: .mean), 소수점 3자리 반올림:"
+          }
+        }
+      }
+    },
+    "render(options: RenderOptions(maxRows: 4, maxColumns: 3, maxColumnWidth: 12)):" : {
+
+    },
+    "replacing(.number(0), with: .number(-1), in: [\"Sales_2024\"]):" : {
+
+    },
+    "Reproducible random sample(2, seed: 42):" : {
+
+    },
+    "Result" : {
+
+    },
+    "Review deduplication by selected columns, validated column renaming, and row concatenation with matching schemas." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "선택 열 기준 중복 제거, 검증된 열 이름 변경, 동일한 스키마의 행 연결을 확인합니다."
+          }
+        }
+      }
+    },
+    "Rolling count, sum, minimum, and maximum:" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "롤링 개수·합계·최솟값·최댓값:"
+          }
+        }
+      }
+    },
+    "Row range subscript (sales[rows: 0..<3]):" : {
+
+    },
+    "Rows after dropping missing Sales_2024:" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sales_2024 결측 행 제거 후 행 수:"
+          }
+        }
+      }
+    },
+    "Rows with missing Sales_2024 dropped:" : {
+
+    },
+    "Sales by region:" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "지역별 매출:"
+          }
+        }
+      }
+    },
+    "Sales_2024 missing mask (first 10):" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sales_2024 결측 마스크 (처음 10개):"
+          }
+        }
+      }
+    },
+    "Sample rows (head 5):" : {
+
+    },
+    "Score >= 85:" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "점수 85 이상:"
+          }
+        }
+      }
+    },
+    "Select a Demo" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "데모 선택"
+          }
+        }
+      }
+    },
+    "Selected temperatures:" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "선택한 온도:"
+          }
+        }
+      }
+    },
+    "Sensor and remaining-life summary by failure_soon:" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "고장 임박 여부별 센서 및 잔여수명 요약:"
+          }
+        }
+      }
+    },
+    "shifted, difference, and percentChange (missing values propagate):" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "shifted, difference, percentChange (결측값 전파):"
+          }
+        }
+      }
+    },
+    "Shipments per division (Division Series valueCounts):" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "사업부별 출하 건수 (Division Series valueCounts):"
+          }
+        }
+      }
+    },
+    "Shipments per quality status (subscript access):" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "품질 등급별 출하 건수 (subscript 접근):"
+          }
+        }
+      }
+    },
+    "smallest(3, by: \"RUL\"):" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "smallest(3, by: \"RUL\"):"
+          }
+        }
+      }
+    },
+    "Source prices (close has one missing value):" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "원본 가격 (close에 결측값 1개):"
+          }
+        }
+      }
+    },
+    "Source rows:" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "원본 행 수:"
+          }
+        }
+      }
+    },
+    "Source summary:" : {
+
+    },
+    "Statistics details:" : {
+
+    },
+    "statistics() on the large factory column set:" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "대용량 공장 데이터의 statistics():"
+          }
+        }
+      }
+    },
+    "statistics() shape:" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "statistics() 크기:"
+          }
+        }
+      }
+    },
+    "statistics(), summaryTable(), and structured metadata:" : {
+
+    },
+    "String operations (trimmed, lowercased, uppercased, stringLength, replacingSubstring, containsSubstring):" : {
+
+    },
+    "String Operations, Date Components, and Vector Math" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "문자열 처리, 날짜 구성요소 추출 및 벡터 연산"
+          }
+        }
+      }
+    },
+    "Structured Statistics, Info, and Top Rows" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "구조화된 통계, 정보, 상위 행"
+          }
+        }
+      }
+    },
+    "Structured Statistics, Quantiles, Info, and Top Rows" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "구조화 통계, 분위수, 정보 요약 및 상위·하위 행"
+          }
+        }
+      }
+    },
+    "Student Grades Analysis with Pandas-Style Operations" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pandas 스타일 학생 성적 분석"
+          }
+        }
+      }
+    },
+    "Subscript returns nil for an unknown column:" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "존재하지 않는 열은 subscript가 nil을 반환합니다:"
+          }
+        }
+      }
+    },
+    "Sum, count, and mean by region + team:" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "지역 및 팀별 합계·개수·평균:"
+          }
+        }
+      }
+    },
+    "Sum, count, mean, median, std, first, and last by region:" : {
+
+    },
+    "Summary statistics (describe):" : {
+
+    },
+    "Synthetic summary checks: count=3, mean=20, median=20, sample std=10" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "예제 요약 검증: 개수=3, 평균=20, 중앙값=20, 표본 표준편차=10"
+          }
+        }
+      }
+    },
+    "Time-interval rolling(\"load\", on: \"timestamp\", interval: 3600, using: .mean):" : {
+
+    },
+    "toDictionary() column snapshot:" : {
+
+    },
+    "toMarkdown(maxRows: 4, maxColumns: 4):" : {
+
+    },
+    "Top 5 abnormal samples by RMS:" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RMS가 높은 이상 표본 5개:"
+          }
+        }
+      }
+    },
+    "Total rows:" : {
+
+    },
+    "transposed(indexColumnName: \"quarter\", rowPrefix: \"team_\"):" : {
+
+    },
+    "Two-row rolling mean (incomplete first window is missing):" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2행 롤링 평균 (첫 번째 불완전한 윈도는 결측 처리):"
+          }
+        }
+      }
+    },
+    "Type inference and cast:" : {
+
+    },
+    "Use describe() to view numeric means, standard deviations, and quartiles, along with the most common text values." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "describe()로 숫자 열의 평균·표준편차·사분위수와 텍스트 열의 최빈값을 확인합니다."
+          }
+        }
+      }
+    },
+    "Validation result: Passed" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "검증 결과: 통과"
+          }
+        }
+      }
+    },
+    "valueCounts() of the score Series:" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "score Series의 valueCounts():"
+          }
+        }
+      }
+    },
+    "valueCounts(of: \"failure_soon\"):" : {
+
+    },
+    "Vectorized column math, abs, ranked, mapped, and row-computed withColumn:" : {
+
+    },
+    "Vectorized Series arithmetic ((scores + bonus) * 1.05) & ranked(ascending: false):" : {
+
+    },
+    "Vertically concatenated batches:" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "세로 방향으로 연결한 데이터:"
+          }
+        }
+      }
+    },
+    "View First and Last Rows" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "처음과 마지막 행 살펴보기"
+          }
+        }
+      }
+    },
+    "Wide source:" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "와이드 형식 원본:"
+          }
+        }
+      }
+    },
+    "Work with Series and Value Counts" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Series와 값 빈도 다루기"
+          }
+        }
+      }
+    },
+    "Work with Series, Vector Math, and Value Counts" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Series 다루기, 벡터 연산 및 빈도 계산"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.3"
+}
