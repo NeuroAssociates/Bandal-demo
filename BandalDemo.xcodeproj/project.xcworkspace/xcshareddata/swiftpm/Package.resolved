@@ -6,8 +6,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/NeuroAssociates/Bandal.git",
       "state" : {
-        "revision" : "ff026ac47542e688334c0085bdc472f27ec9d79f",
-        "version" : "0.1.3"
+        "revision" : "d0c8d3222a6acf43829539c5a117a22d96e18745",
+        "version" : "0.2.0"
       }
     },
     {
